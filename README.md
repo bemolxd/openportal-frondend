@@ -1,6 +1,6 @@
 # OpenPortal - BemIdeas.pl
 
-[openportal-bem.web.app](https://openportal-bem.web.app)
+[openportal.bemideas.pl](https://openportal.bemideas.pl)
 
 Otwarty, open-source'owy portal społecznościowy, trochę przypominający Facebooka. Stworzony z nudów, po to, by uczyć się Reacta.
 
